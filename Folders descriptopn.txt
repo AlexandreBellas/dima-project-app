@@ -1,0 +1,13 @@
+Navigation folder - To store the navigation configuration \
+Screens folder - To keep screens we can navigate between\
+Components folder - For all the regular components (components that we embbed into screens or into other components)
+Constants folder - To work with the color constants here so that we can use our preselected coolers\
+Models folder - \
+Store folder - where we will manage our redux store and our redux state (which is our state management system)
+Data folder - the folder with some dummy data
+
+
+Screens are organized into 2 separate subfolders: 1 for the user and another one for the seller
++
+npm install --save redux react-redux react-navigation
+expo install react-native-gesture-handler react-native-reanimated
